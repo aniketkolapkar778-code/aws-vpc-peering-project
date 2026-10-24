@@ -65,3 +65,37 @@ Project resources were removed through the AWS Console after evidence collection
 The accompanying project report and screenshots document the configuration, testing, troubleshooting, and cleanup workflow.
 
 **Note:** The initial pre-peering baseline ping was not captured, so no result is claimed for that test.
+
+## Project Screenshots
+
+The following screenshots demonstrate the key stages of the AWS VPC Peering project, including network configuration, routing, security groups, and connectivity testing.
+
+### 1. VPC-A Creation
+
+![VPC-A Creation](screenshots/01-vpc-a-create.png)
+
+### 2. VPC-B Creation
+
+![VPC-B Creation](screenshots/03-vpc-b-create.png)
+
+### 3. VPC Peering Connection
+
+![VPC Peering](screenshots/10-vpc-peering-details.png)
+
+### 4. Security Group Rules
+
+![Security Group Rules](screenshots/12-security-group-rules.png)
+
+### 5. Route Table Configuration
+
+![Route Table Routes](screenshots/13-route-table-routes.png)
+
+### 6. Connectivity Test — App-A to App-B
+
+![Ping App-A to App-B](screenshots/16-ping-app-a-to-app-b.png)
+
+### 7. Connectivity Test — App-B to App-A
+
+![Ping App-B to App-A](screenshots/17-ping-app-b-to-app-a.png)
+
+
