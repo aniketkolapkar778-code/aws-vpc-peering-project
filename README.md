@@ -90,12 +90,6 @@ The following screenshots demonstrate the key stages of the AWS VPC Peering proj
 
 ![Route Table Routes](screenshots/13-route-table-routes.png)
 
-### 6. Connectivity Test — App-A to App-B
 
-![Ping App-A to App-B](screenshots/16-ping-app-a-to-app-b.png)
-
-### 7. Connectivity Test — App-B to App-A
-
-![Ping App-B to App-A](screenshots/17-ping-app-b-to-app-a.png)
 
 
