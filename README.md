@@ -60,6 +60,11 @@ These results demonstrate the tested private ICMP connectivity and the effect of
 
 Project resources were removed through the AWS Console after evidence collection, as recorded in the project report. The AWS Console and Billing dashboard should be checked to confirm that no billable project resources remain.
 
+
+**Note:** This README includes only the important screenshots of the AWS VPC Peering project for quick reference. The complete set of project screenshots and detailed implementation steps are available in the attached project report PDF.
+
+
+
 ## Project Evidence
 
 The accompanying project report and screenshots document the configuration, testing, troubleshooting, and cleanup workflow.
