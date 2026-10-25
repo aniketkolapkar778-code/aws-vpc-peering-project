@@ -71,6 +71,8 @@ The accompanying project report and screenshots document the configuration, test
 
 **Note:** The initial pre-peering baseline ping was not captured, so no result is claimed for that test.
 
+> **Note:** This README contains only the important screenshots of the AWS VPC Peering project. All remaining screenshots and detailed project steps are included in the complete project report PDF available in this repository.
+
 ## Project Screenshots
 
 Screenshots of the AWS VPC Peering project, from resource creation and connectivity testing to resource cleanup.
