@@ -171,7 +171,7 @@ Screenshots of the AWS VPC Peering project, from resource creation and connectiv
 
 
 
-![Route Table Routes](screenshots/13-route-table-routes.png)
+
 
 
 
